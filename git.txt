@@ -7,3 +7,6 @@ Adding new files to repository
 Commiting staged files 
 
 * git commit -m "message"
+
+Show git status
+* git status
