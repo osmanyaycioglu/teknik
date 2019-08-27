@@ -1,1 +1,9 @@
-git clone URL
+Clonning a repository from any  git
+* git clone URL
+
+Adding new files to repository
+* git add *
+
+Commiting staged files 
+
+* git commit -m "message"
