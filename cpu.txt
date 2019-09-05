@@ -1,0 +1,11 @@
+dstat -c --top-cpu -dn --top-mem
+pidstat -u 1
+atop
+mpstat -P ALL
+htop
+ps -eo pid,comm,%cpu,%mem --sort=-%cpu | head -n 5
+sar 1
+vmstat 1
+iostat 1
+perf stat -a -- sleep 10
+glances 
