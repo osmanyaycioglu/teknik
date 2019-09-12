@@ -10,3 +10,5 @@ Commiting staged files
 
 Show git status
 * git status
+
+test 1.1.0
