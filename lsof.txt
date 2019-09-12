@@ -2,4 +2,6 @@ get all tcp ports for a specific process
 
 * lsof -Pan -p PID -i
 
-1.1.0 burası
+1.1.0 burası 
+
+test lan burası
